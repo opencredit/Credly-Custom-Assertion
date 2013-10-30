@@ -43,7 +43,7 @@ function credly_assertion_page_shortcode( $atts = array() ) {
 	);
 
 	// Parse attributes against the defaults
-	$atts = shortcode_atts( $atts, $defaults );
+	$atts = shortcode_atts( $defaults, $atts );
 
 	// If passed an ID, render the iframe, otherwise render nothing
 	if ( $atts['ID'] )
