@@ -91,9 +91,11 @@ Yes, it's just a simple shortcode to complement the Credly Pro "Custom Assertion
 
 == Screenshots ==
 
-1. Example of a Custom Assertion Location page.
+1. Example of a Custom Assertion Location page in action.
 
-2. Credly Pro and Pro Premium members will see a Custom Assertion Location option in the “Account Settings” area of their account. Just put the shortcode on any page of your site, and put the link to the page into your Account Settings and you are all set. (See installation instructions for details.)
+2. A standard assertion page on Credly when "Custom Assertion" is **not** activated.
+
+2. Credly Pro and Pro Premium members will see a Custom Assertion Location option in the “Account Settings” area of their account. Just put the shortcode on any page of your site, and put the link to the page into your Account Settings and you are all set. (See "Installation" section for details.)
 
 == Changelog ==
 
