@@ -32,7 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>;.
  *
  * @return` string iframe displaying Credly data, or nothing.
  */
-function badgeos_credly_assertion_page( $atts = array() ) {
+function credly_assertion_page_shortcode( $atts = array() ) {
 	global $content_width;
 
 	// Setup defaults
@@ -52,4 +52,4 @@ function badgeos_credly_assertion_page( $atts = array() ) {
 		return '';
 
 }
-add_shortcode( 'credly_assertion_page', 'badgeos_credly_assertion_page' );
+add_shortcode( 'credly_assertion_page', 'credly_assertion_page_shortcode' );
