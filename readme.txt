@@ -39,7 +39,7 @@ It's very easy. Essentially, all you do is place a shortcode on any page on your
 
 1. Put the shortcode on any page or post on your site:  [credly_assertion_page] 
 
-2. Copy the permalink of the page you used and append "/?ID={id}" to the end of it.  For example, if the link to your page is www.yoursiteurl.com/certificate, your link format would be:  www.yoursiteurl.com/certificate?ID={id}
+2. Copy the permalink of the page you used and append "/?CID={id}" to the end of it.  For example, if the link to your page is www.yoursiteurl.com/certificate, your link format would be:  www.yoursiteurl.com/certificate?CID={id}
 
 3. Paste the full link into the "Custom Assertion Location" field in the Account Settings area of your [Credly](https://credly.com/ "Credly web site") Pro account. Save your Account Settings. 
 
@@ -78,7 +78,7 @@ There is NO WARRANTY for this software, express or implied, including the implie
 1. Upload 'credly-custom-assertion' to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Place the shortcode [credly_assertion_page] on any page or post.
-4. Copy the full link to your page and append "/?ID={id}" to the end of it. For example, if the link to your page is yoursiteurl.com/certificate, your link format would be:  yoursiteurl.com/certificate?ID={id}
+4. Copy the full link to your page and append "/?CID={id}" to the end of it. For example, if the link to your page is yoursiteurl.com/certificate, your link format would be:  yoursiteurl.com/certificate?CID={id}
 5. Paste the link from step 4 into the "Custom Assertion Location" field in the Account Settings area of your [Credly](https://credly.com/ "Credly web site") Pro account. Save Account Settings.
 
 When someone earns and shares a badge from you via Credly and shares it on any site or social network, the link will redirect to your page.
