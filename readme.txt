@@ -1,7 +1,7 @@
 === Credly Custom Badge Assertion Shortcode ===
 Contributors: learningtimes, webdevstudios, rzen
 Donate link: http://badgeos.org/contribute/donate/
-Tags: badge, badges, openbadges, learningtimes, credly, OBI, mozilla, open badges, achievement, award, reward, engagement, submission, nomination, API, open credit, credit, badgeOS
+Tags: badge, badges, openbadges, learningtimes, OBI, mozilla, open badges, achievement, award, reward, engagement, submission, nomination, API, open credit, credit, badgeOS
 Requires at least: 3.5
 Tested up to: 3.7.0
 Stable tag: 1.0.0
@@ -59,7 +59,7 @@ Note: Custom Assertion Location requires a [Pro](http://credly.com/upgrade "Cred
 Learn more about how Custom Assertion Location works:
 [Background on Custom Assertion Location](http://blog.credly.com/custom-assertion-location/ "Background on Custom Assertion Location")
 
-This plugin is made available by [Credly, LLC](https://credly.com/ "Credly web site"). Here are some ways to stay connected and to see what else we are up to:
+This plugin is made available by [LearningTimes, LLC](http://www.LearningTimes.com/ "LearningTimes web site"). Here are some ways to stay connected and to see what else we are up to:
 
 * [BadgeOS.org](http://badgeos.org/ "BadgeOS web site") - Contact Us, Video Tutorials, Examples, News
 * [LearningTimes](http://www.learningtimes.com/ "LearningTimes web site") - Bringing people together through engaging online conferences, events and activities.
