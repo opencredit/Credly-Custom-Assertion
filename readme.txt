@@ -1,5 +1,5 @@
 === Credly Custom Badge Assertion Shortcode ===
-Contributors: learningtimes, badgeos, webdevstudios, rzen
+Contributors: badgeos, learningtimes, webdevstudios, rzen
 Donate link: http://badgeos.org/contribute/donate/
 Tags: badge, badges, openbadges, learningtimes, OBI, mozilla, open badges, achievement, award, reward, engagement, submission, nomination, API, open credit, credit, badgeOS
 Requires at least: 3.5
