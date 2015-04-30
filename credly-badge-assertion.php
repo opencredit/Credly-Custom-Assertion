@@ -38,7 +38,7 @@ function credly_assertion_page_shortcode( $atts = array() ) {
 	// Setup defaults
 	$defaults = array(
 		'CID'    => isset( $_GET['CID'] ) ? absint( $_GET['CID'] ) : 0,
-		'width'  => isset( $content_width ) ? $content_width : 560,
+		'width'  => isset( $content_width ) ? $content_width : 590,
 		'height' => 1000,
 	);
 
